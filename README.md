@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey y'all 👋
+- I am a Neurocience PhD Candidate at Tulane University. 
+- My current research focuses on impact of Alzheimer's disease on plasticity of cortical neurons. 
+- Fun fact: I am originally from Cyprus but have lived in the US for more than a decade now. 
 <!--
 **CemoSh/CemoSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
